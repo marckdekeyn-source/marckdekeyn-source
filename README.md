@@ -30,10 +30,8 @@
 
 ```python
 class CybersecurityStudent:
-    name       = "Markus Kapitan De Ornay"
-    alias      = "Marck"
+    marck      = "Marck"
     role       = "Cybersecurity Student · Computer Engineering"
-    university = "Universitas AMIKOM Yogyakarta"
     focus      = [
         "Web Penetration Testing",
         "Network Security",
