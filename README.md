@@ -114,12 +114,12 @@ Cybersecurity student and Python developer passionate about **web penetration te
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=marckdekeyn-source&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"
+    src="https://github-readme-stats.vercel.app/api?username=marckdekeyn-source&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&cache_seconds=86400"
     height="165"
   />
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckdekeyn-source&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckdekeyn-source&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&cache_seconds=86400"
     height="165"
   />
 </p>
