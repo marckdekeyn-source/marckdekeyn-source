@@ -114,12 +114,12 @@ Cybersecurity student and Python developer passionate about **web penetration te
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=marckdekeyn-source&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&cache_seconds=86400"
+    src="https://github-readme-stats-two-kohl-57.vercel.app/api?username=marckdekeyn-source&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=39FF14&ring_color=00FF41&cache_seconds=86400"
     height="165"
   />
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckdekeyn-source&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&cache_seconds=86400"
+    src="https://github-readme-stats-two-kohl-57.vercel.app/api/top-langs/?username=marckdekeyn-source&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=39FF14&cache_seconds=86400"
     height="165"
   />
 </p>
@@ -132,7 +132,7 @@ Cybersecurity student and Python developer passionate about **web penetration te
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=marckdekeyn-source&bg_color=0D1117&color=FFFFFF&line=58A6FF&point=39D353&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=marckdekeyn-source&bg_color=0D1117&color=39FF14&line=00FF41&point=00FF9C&area=true&area_color=00FF41&hide_border=true&hide_title=false&title=Contribution%20Graph"
     width="100%"
   />
 </p>
