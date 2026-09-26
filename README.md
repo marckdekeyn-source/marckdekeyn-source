@@ -114,13 +114,25 @@ Cybersecurity student and Python developer passionate about **web penetration te
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-two-kohl-57.vercel.app/api?username=marckdekeyn-source&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=39FF14&ring_color=00FF41&cache_seconds=86400"
+    src="https://github-readme-stats-two-kohl-57.vercel.app/api?username=marckdekeyn-source&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00&ring_color=00FF00&cache_seconds=86400"
     height="165"
   />
   
   <img 
-    src="https://github-readme-stats-two-kohl-57.vercel.app/api/top-langs/?username=marckdekeyn-source&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=39FF14&cache_seconds=86400"
+    src="https://github-readme-stats-two-kohl-57.vercel.app/api/top-langs/?username=marckdekeyn-source&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&cache_seconds=86400"
     height="165"
+  />
+</p>
+
+<br/>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=marckdekeyn-source&hide_border=true&background=000000&ring=00FF00&fire=39FF14&currStreakLabel=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00FF00&dates=888888&border=00FF00"
   />
 </p>
 
