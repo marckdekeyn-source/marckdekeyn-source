@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=620&height=60&lines=Markus+Kapitan+De+Ornay;Cybersecurity+Student;Web+Penetration+Tester;Digital+Forensics+%26+Bug+Hunter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=620&height=60&lines=Markus+Kapitan+De+Ornay;Cybersecurity+Student;Web+Penetration+Tester;Digital+Forensics+%26+Bug+Hunter" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -24,13 +24,15 @@
 
 <br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT ME                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🧠 About Me
 
 ```python
 class CybersecurityStudent:
-    marck      = "Marck"
+    name      = "Marck"
     role       = "Cybersecurity Student · Computer Engineering"
     focus      = [
         "Web Penetration Testing",
@@ -50,6 +52,10 @@ Cybersecurity student and Python developer passionate about **web penetration te
 <br/>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CORE EXPERTISE                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## ⚔️ Core Expertise
 
@@ -78,6 +84,10 @@ Cybersecurity student and Python developer passionate about **web penetration te
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      SKILLS & TOOLS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 🛠️ Skills & Tools
 
 **Languages & Environment**
@@ -98,67 +108,47 @@ Cybersecurity student and Python developer passionate about **web penetration te
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white&labelColor=0d1117"/>
 </p>
 
-**Primary Language**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117"/>
-</p>
-
 <br/>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-two-kohl-57.vercel.app/api?username=marckdekeyn-source&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00&ring_color=00FF00&cache_seconds=86400"
-    height="165"
-  />
-  
-  <img 
-    src="https://github-readme-stats-two-kohl-57.vercel.app/api/top-langs/?username=marckdekeyn-source&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&cache_seconds=86400"
-    height="165"
-  />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=marckdekeyn-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9"/>
+  &nbsp;
+  <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=marckdekeyn-source&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=FF003C&currStreakLabel=00F7FF&sideLabels=c9d1d9"/>
+</p>
+
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckdekeyn-source&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&langs_count=6"/>
 </p>
 
 <br/>
 
 ---
 
-## 🔥 GitHub Streak
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CONTRIBUTION SNAKE                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=marckdekeyn-source&hide_border=true&background=000000&ring=00FF00&fire=39FF14&currStreakLabel=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00FF00&dates=888888&border=00FF00"
-  />
-</p>
+## 🐍 Contribution Activity
 
-<br/>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=marckdekeyn-source&bg_color=0D1117&color=39FF14&line=00FF41&point=00FF9C&area=true&area_color=00FF41&hide_border=true&hide_title=false&title=Contribution%20Graph"
-    width="100%"
-  />
-</p>
-
-<!-- Snake — aktifkan setelah workflow berhasil dirun -->
-<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/marckdekeyn-source/marckdekeyn-source/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 </p>
--->
 
 <br/>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CONNECT WITH ME                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🌐 Connect
 
@@ -175,6 +165,10 @@ Cybersecurity student and Python developer passionate about **web penetration te
 </p>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         FOOTER                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0a3040,100:0d1117&height=90&section=footer"/>
